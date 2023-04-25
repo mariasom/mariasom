@@ -3,7 +3,7 @@
 - 🎓 currently studying phd. in applied mathematics at slovak university of technology
 - 🔬 branch of research is image processing of biological data (macrophages)
 - 👩‍💻 mostly using c++/qt/vtk/wolfram mathematica... 
-- 💻 part of [Strata Developer Studio](https://github.com/stratadeveloperstudio) development team ([work account](https://github.com/mariasomonsemi))
+- 💻 ~~part of [Strata Developer Studio](https://github.com/stratadeveloperstudio) development team ([work account](https://github.com/mariasomonsemi))~~
 - 📫 can be found on [linkedin](https://www.linkedin.com/in/mariasom/)
 
 <!---
